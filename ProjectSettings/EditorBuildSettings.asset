@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: b8c0332c3bfd9c74ba95e23f2ae37be3
+  - enabled: 1
+    path: Assets/Scenes/Puzz_Tutorial1.unity
+    guid: d83b34f1a5ac5c34283b5cd654834591
+  - enabled: 1
+    path: Assets/Scenes/Puzz_Tutorial2.unity
+    guid: a9d0885ea94df044baee7c2da57e6e96
+  - enabled: 1
+    path: Assets/Scenes/Puzz_OneLung.unity
+    guid: 3a96ad76a3b32d14891fde661035bfa0
+  - enabled: 1
+    path: Assets/Scenes/Puzz_Tutorial3.unity
+    guid: 1f08836e26423ef47a2fd547d17c1b4f
+  - enabled: 1
+    path: Assets/Scenes/Puzz_IntestineTransplant.unity
+    guid: 2afcd2a3d65146c479e3aa07c4a48fd1
+  - enabled: 1
+    path: Assets/Scenes/Puzz_Tutorial4.unity
+    guid: 9129cffec89cdd047b2722e93e3640f9
+  - enabled: 1
+    path: Assets/Scenes/Puzz_Livermore.unity
+    guid: 428a598375d40aa419646dd775f69915
+  - enabled: 1
+    path: Assets/Scenes/Puzz_BuryLungs.unity
+    guid: fc9028bdfa907cb45b2aa1edccdf16c9
+  - enabled: 1
+    path: Assets/Scenes/Puzz_Tutorial5.unity
+    guid: 05af8062652be4f45b7b083cfb2dc8ad
+  - enabled: 1
+    path: Assets/Scenes/Puzz_Tutorial6.unity
+    guid: 3c130477f37442f41b9ca495b05974a6
+  - enabled: 1
+    path: Assets/Scenes/Puzz_BloodyLung.unity
+    guid: 9b8276557c3d054429b938b6a158f7d7
+  - enabled: 1
+    path: Assets/Scenes/Puzz_BladderlessBill.unity
+    guid: fca6af83dea588d4dafbf9d2266bbf3f
+  - enabled: 1
+    path: Assets/Scenes/Puzz_3Stomachs.unity
+    guid: a0340aa4ffe73c441b5ae09a90154ff6
+  - enabled: 1
+    path: Assets/Scenes/Puzz_BloodyLung2.unity
+    guid: aaf4c5c4e9368e349910ac2a7b4be16a
+  - enabled: 1
+    path: Assets/Scenes/Puzz_4Hearts.unity
+    guid: 77640a27458da2146bc9ef5dbefdf1a1
+  - enabled: 1
+    path: Assets/Scenes/Puzz_PakdTight.unity
+    guid: 80eb4d69aa9499f40af741ae05e952b5
+  - enabled: 1
+    path: Assets/Scenes/Puzz_SidewaysLungs.unity
+    guid: 832613ca803ab754cafea996410129df
+  - enabled: 1
+    path: Assets/Scenes/Puzz_XtraLung.unity
+    guid: 203de5bf56c28594a8f618286f39187a
+  - enabled: 0
+    path: Assets/Scenes/Test.unity
+    guid: 12b9dbe3d8da3ba4eb6b93572776e69c
+  m_configObjects: {}
